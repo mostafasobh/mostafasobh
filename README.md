@@ -23,11 +23,12 @@ const mostafa = {
 <tr>
 <td valign="top" nowrap><code>2026 → now</code></td>
 <td valign="top"><b>Elesely Group</b> · Full Stack Engineer (NestJS / React) · <sub>company code, private</sub><br>
+<a href="https://play.google.com/store/apps/details?id=com.eleselygroup.app&hl=en"><img src="https://img.shields.io/badge/Google_Play-0d1117?style=flat-square&logo=googleplay&logoColor=34A853" alt="Elesely Group on Google Play"></a> <a href="https://apps.apple.com/us/app/elesely-group-%D8%A7%D9%84%D8%B9%D8%B3%D9%8A%D9%84%D9%89-%D8%AC%D8%B1%D9%88%D8%A8/id6791671873"><img src="https://img.shields.io/badge/App_Store-0d1117?style=flat-square&logo=apple&logoColor=white" alt="Elesely Group on the App Store"></a><br>
 Multi-warehouse e-commerce platform with Odoo ERP sync. Wrote the product spec (~14 epics, state machines, error catalog) and the full PostgreSQL data model. Built phone-OTP auth with rotating refresh sessions, Postgres full-text search (generated <code>tsvector</code> + GIN, <code>ts_rank</code>), a three-step multi-warehouse checkout with pricelist tiers and nearest-first stock split, BullMQ workers (push, maintenance), an Odoo JSON-RPC client with retry + circuit breaker, and the Docker Compose stack (Caddy, PostGIS, Redis, API, worker). Bilingual EN/AR React admin with RBAC.</td>
 </tr>
 <tr>
 <td valign="top" nowrap><code>2025 → 2026</code></td>
-<td valign="top"><b>LAZCare</b> · Software Engineer · <a href="https://lazcare.com">lazcare.com</a><br>
+<td valign="top"><b>LAZCare</b> · Software Engineer · <a href="https://lazcare.com">lazcare.com</a> · <a href="https://lazcare.com/game">lazcare.com/game</a><br>
 REST APIs and landing page for the NFC/QR emergency-bracelet app; supervised the Flutter app end to end. Built the DeepFace face-search service that runs beside the Rails app, with privacy rules: a face match reveals relatives' contacts only, full medical data needs a bracelet scan. Domains, SSL, Docker Compose deploys.</td>
 </tr>
 <tr>
@@ -37,7 +38,7 @@ AI browser extension with a Rails backend: inline explanations and summaries on 
 </tr>
 <tr>
 <td valign="top" nowrap><code>2022 → 2025</code></td>
-<td valign="top"><b>Maqsam</b> (Amman) · Software Engineer, cloud telephony · <sub>Rails + Vue</sub><br>
+<td valign="top"><b>Maqsam</b> (Amman) · Software Engineer, cloud telephony · <a href="https://maqsam.com/">maqsam.com</a> · <sub>Rails + Vue</sub><br>
 15+ client reporting pipelines in SQL and Ruby, delivered by Sidekiq jobs, tuned by indexing and killing N+1s. Production-to-analytics DB sync in batches with schema-change automation (Prestd). Owned the Unifonic SMS integration; integrated HubSpot CRM and Zoho Desk. Near-real-time billing dashboard. Central role migrating the portal to Vue Composition API + Pinia + Vite + TypeScript.</td>
 </tr>
 <tr>
