@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mostafa Sobh, backend engineer">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#2a2a2e" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fadeR" x1="0" x2="1">
+      <stop offset="0" stop-color="#121214" stop-opacity="0"/>
+      <stop offset="1" stop-color="#121214"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" x2="1">
+      <stop offset="0" stop-color="#d2a24c"/>
+      <stop offset="1" stop-color="#8a2e2a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="#121214"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.7"/>
+  <rect x="600" width="600" height="300" fill="url(#fadeR)"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#amber)"/>
+
+  <g font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#9a968f" letter-spacing="2">
+    <text x="64" y="78">BACKEND ENGINEER  ·  CAIRO, EG</text>
+    <text x="1136" y="78" text-anchor="end">OPEN TO MID-LEVEL ROLES</text>
+  </g>
+
+  <text x="64" y="158" font-family="Georgia, 'Times New Roman', serif" font-size="74" fill="#ebe8e3" letter-spacing="-2">Mostafa Sobh</text>
+  <text x="64" y="208" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#9a968f">I build the backend, then <tspan fill="#d2a24c" font-style="italic">ship the whole product.</tspan></text>
+
+  <g font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="14" fill="#ebe8e3">
+    <g transform="translate(64 244)">
+      <rect width="92" height="30" rx="15" fill="none" stroke="#3a3a3e"/><text x="46" y="20" text-anchor="middle">NestJS</text>
+    </g>
+    <g transform="translate(166 244)">
+      <rect width="80" height="30" rx="15" fill="none" stroke="#3a3a3e"/><text x="40" y="20" text-anchor="middle">Rails</text>
+    </g>
+    <g transform="translate(256 244)">
+      <rect width="126" height="30" rx="15" fill="none" stroke="#3a3a3e"/><text x="63" y="20" text-anchor="middle">PostgreSQL</text>
+    </g>
+    <g transform="translate(392 244)">
+      <rect width="118" height="30" rx="15" fill="none" stroke="#3a3a3e"/><text x="59" y="20" text-anchor="middle">TypeScript</text>
+    </g>
+    <g transform="translate(520 244)">
+      <rect width="96" height="30" rx="15" fill="none" stroke="#3a3a3e"/><text x="48" y="20" text-anchor="middle">Docker</text>
+    </g>
+  </g>
+
+  <!-- product dots on the right -->
+  <g font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="14" fill="#9a968f">
+    <circle cx="880" cy="150" r="4" fill="#d2a24c"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle><text x="896" y="155" fill="#ebe8e3">lazcare.com</text>
+    <circle cx="880" cy="182" r="4" fill="#d2a24c"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle><text x="896" y="187" fill="#ebe8e3">sjlapp.com</text>
+    <circle cx="880" cy="214" r="4" fill="#d2a24c"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle><text x="896" y="219" fill="#ebe8e3">elwesameldhby.online</text>
+    <text x="880" y="122">4 PRODUCTS IN PRODUCTION</text>
+  </g>
+</svg>

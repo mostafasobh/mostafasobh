@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Terminal: mostafa sobh, backend engineer">
+  <style>
+    .l { font-family: Consolas, Menlo, 'DejaVu Sans Mono', monospace; font-size: 17px; fill: #c9d1d9; animation: show .01s linear both; }
+    .p { fill: #d2a24c; }
+    .d { fill: #8b949e; }
+    .k { fill: #7ee787; }
+    .c { fill: #c9d1d9; animation: blink 1s steps(1) infinite; }
+    @keyframes show { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    .l:nth-of-type(1){animation-delay:.3s}
+    .l:nth-of-type(2){animation-delay:.9s}
+    .l:nth-of-type(3){animation-delay:1.6s}
+    .l:nth-of-type(4){animation-delay:2.2s}
+    .l:nth-of-type(5){animation-delay:2.6s}
+    .l:nth-of-type(6){animation-delay:3.0s}
+    .l:nth-of-type(7){animation-delay:3.4s}
+    .l:nth-of-type(8){animation-delay:4.1s}
+    .l:nth-of-type(9){animation-delay:4.7s}
+  </style>
+  <rect width="1000" height="300" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect width="1000" height="40" rx="12" fill="#161b22"/>
+  <rect y="28" width="1000" height="12" fill="#161b22"/>
+  <line x1="0" y1="40" x2="1000" y2="40" stroke="#30363d"/>
+  <circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+  <text x="500" y="25" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e">mostafa@damietta — zsh</text>
+
+  <text class="l" x="28" y="76"><tspan class="p">$</tspan> whoami</text>
+  <text class="l" x="28" y="102"><tspan class="k">mostafa-sobh</tspan><tspan class="d">  backend engineer · 4+ yrs · NestJS / Rails / PostgreSQL</tspan></text>
+  <text class="l" x="28" y="138"><tspan class="p">$</tspan> ls ~/products --live</text>
+  <text class="l" x="28" y="164"><tspan class="k">laz/</tspan><tspan class="d">        lazcare.com            NFC medical ID + face search</tspan></text>
+  <text class="l" x="28" y="188"><tspan class="k">daleel/</tspan><tspan class="d">     sjlapp.com             diagnostic assessment for schools</tspan></text>
+  <text class="l" x="28" y="212"><tspan class="k">elwesam/</tspan><tspan class="d">    elwesameldhby.online   accounting for gold traders</tspan></text>
+  <text class="l" x="28" y="236"><tspan class="k">laz-game/</tspan><tspan class="d">   lazcare.com/game       60-second HTML5 mission</tspan></text>
+  <text class="l" x="28" y="272"><tspan class="p">$</tspan> status <tspan class="d">→</tspan> <tspan class="k">open to mid-level backend roles</tspan></text>
+  <text class="l" x="28" y="272"><tspan x="470" class="c">▍</tspan></text>
+</svg>
