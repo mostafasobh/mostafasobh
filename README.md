@@ -50,12 +50,12 @@ AI browser extension with a Rails backend: inline explanations and summaries on 
 
 <table>
 <tr>
-<td align="center"><sub><b>backend</b></sub><br><img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,ruby,rails,graphql,python&perline=7" alt="Node.js, NestJS, TypeScript, Ruby, Rails, GraphQL, Python"></td>
-<td align="center"><sub><b>data</b></sub><br><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,sqlite&perline=5" alt="PostgreSQL, Redis, MySQL, MongoDB, SQLite"></td>
+<td align="center"><sub><b>backend</b></sub><br><img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,ruby,rails&perline=5" alt="Node.js, NestJS, TypeScript, Ruby, Rails"></td>
+<td align="center"><sub><b>data</b></sub><br><img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite&perline=4" alt="PostgreSQL, Redis, MongoDB, SQLite"></td>
 </tr>
 <tr>
-<td align="center"><sub><b>frontend &amp; mobile</b></sub><br><img src="https://skillicons.dev/icons?i=react,vue,vite,tailwind,flutter,electron&perline=6" alt="React, Vue, Vite, Tailwind, Flutter, Electron"></td>
-<td align="center"><sub><b>ops &amp; tooling</b></sub><br><img src="https://skillicons.dev/icons?i=docker,nginx,linux,ansible,git,jest,grafana&perline=7" alt="Docker, Nginx, Linux, Ansible, Git, Jest, Grafana"></td>
+<td align="center"><sub><b>frontend</b></sub><br><img src="https://skillicons.dev/icons?i=react,vue,vite&perline=3" alt="React, Vue, Vite"></td>
+<td align="center"><sub><b>ops &amp; tooling</b></sub><br><img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,jest,grafana&perline=6" alt="Docker, Nginx, Linux, Git, Jest, Grafana"></td>
 </tr>
 </table>
 
