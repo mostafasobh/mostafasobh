@@ -93,11 +93,11 @@ AI browser extension with a Rails backend: inline explanations and summaries on 
 ### `$ git stats`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafasobh&theme=github_dark" width="100%" alt="Profile details">
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostafasobh&theme=github_dark" width="49%" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mostafasobh&theme=github_dark" width="49%" alt="Most committed languages">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats">
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most committed languages">
 </p>
 
 <p align="center">
